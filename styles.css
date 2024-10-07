@@ -1,0 +1,51 @@
+body {
+    color: black;
+    background: rgb(2, 2, 83);
+    text-align: center;
+    margin: 4px;
+}
+
+header {
+    border: solid 15px red;
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
+p {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    border: solid 13px red;
+}
+
+.profile h1 {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    border: solid 13px red;
+    font-size: 40px;
+}
+
+.profile h3 {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    border: solid 5px red;
+    font-size: 16px;
+}
+
+.profile{
+    background: black;
+    overflow-x: auto ;
+    margin: 50px;
+}
+.profile img {
+   opacity: 0.5;
+   height: 500;
+   width: 500;
+}
+   
+
+.profile img:hover {
+    opacity: 1;
+    border: 2px solid white
+}
+.game h3{
+    margin: 10px;
+}
+.profile h4{
+    margin: 10px;
+}
